@@ -1,0 +1,50 @@
+.login_div{
+  text-align: center;
+  height:30%;
+  padding:40px;
+  background-color: #b4b4b4;
+}
+img{
+  height:80px;
+  width:80px;
+}
+#predictor{
+   background-color:#b4b4b4;
+   padding:10px;
+   margin-bottom:10px;
+}
+.login_div input{
+  padding:7px;
+  margin:10px;
+}
+table{
+  border: 1px solid black;
+  padding:5px;
+  width:100%;
+}
+td{
+  border: 1px solid black;
+}
+.status{
+  padding:5px;
+}
+
+.arc text {
+  font: 25px Arial;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+.analyse_div{
+  text-align:center;
+  margin:auto;
+}
+svg{
+margin:auto;
+}
+body{
+ text-align:center;
+ background-color:#F5F5F5;
+}
